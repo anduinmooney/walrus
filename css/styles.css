@@ -1,0 +1,38 @@
+.walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.dark-background {
+  background-color: darkgrey;
+}
+
+.box {
+  cursor: pointer;
+  padding: 12px;
+  border: 12px;
+  border-color: black;
+  background-color: red;
+
+}
+
+.clickable3 {
+  cursor: pointer;
+  text-decoration: underline;
+}
